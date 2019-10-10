@@ -7,3 +7,4 @@ A curated list of awesome desktop GUI libraries.
 - [revery](https://github.com/revery-ui/revery)
 - [Azul](https://github.com/maps4print/azul)
 - [Stain](https://github.com/cztomsik/stain)
+- [Muon](https://github.com/ImVexed/muon)
