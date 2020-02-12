@@ -12,3 +12,4 @@ A curated list of awesome libraries for building cross platform desktop GUI.
 - [node-gui](https://github.com/nodegui/nodegui) A library for building cross-platform native desktop applications with JavaScript and CSS like styling 🚀
 - [vuido](https://github.com/mimecorg/vuido) Native desktop applications using Vue.js. vuido.mimec.org
 - [proton-native](https://github.com/kusti8/proton-native) A React environment for cross platform native desktop apps proton-native.js.org
+- [fyne](https://github.com/fyne-io/fyne) Cross platform GUI in Go based on Material Design
