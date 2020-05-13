@@ -13,3 +13,4 @@ A curated list of awesome libraries for building cross platform desktop GUI.
 - [vuido](https://github.com/mimecorg/vuido) Native desktop applications using Vue.js. vuido.mimec.org
 - [proton-native](https://github.com/kusti8/proton-native) A React environment for cross platform native desktop apps proton-native.js.org
 - [fyne](https://github.com/fyne-io/fyne) Cross platform GUI in Go based on Material Design
+- [react native for windows&mac](https://github.com/microsoft/react-native-windows) A framework bringing React Native to Windows & Mac devices.
