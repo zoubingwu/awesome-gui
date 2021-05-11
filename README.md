@@ -2,7 +2,7 @@
 
 A curated list of awesome libraries for building cross platform apps.
 
-# Framework
+## Framework
 
 - [Electron](https://github.com/electron/electron) Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [revery](https://github.com/revery-ui/revery) ⚡️ Native, high-performance, cross-platform desktop apps - built with Reason!
@@ -19,7 +19,7 @@ A curated list of awesome libraries for building cross platform apps.
 - [Flutter](https://flutter.dev/) Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 - [Kraken](https://openkraken.com/) High-performance web rendering engine, built on Flutter by Alibaba.
 
-# UI library
+## UI library
 
 - [Blueprintjs](https://blueprintjs.com/) A React-based UI toolkit for the web, made by Palantir.
 - [Mantine](https://mantine.dev/) Mantine is a MIT licensed open source react components and hooks library with focus on usability, accessibility and developer experience.
