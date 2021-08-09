@@ -18,6 +18,7 @@ A curated list of awesome libraries for building cross platform apps.
 - [Compose for Desktop](https://www.jetbrains.com/lp/compose/) Fast reactive desktop UIs for Kotlin, based on Google's modern toolkit and brought to you by JetBrains.
 - [Flutter](https://flutter.dev/) Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 - [Kraken](https://openkraken.com/) High-performance web rendering engine, built on Flutter by Alibaba.
+- [Wails](https://github.com/wailsapp/wails) Create desktop apps using Go and Web Technologies.
 
 ## UI library
 
