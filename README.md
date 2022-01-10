@@ -19,6 +19,7 @@ A curated list of awesome libraries for building cross platform apps.
 - [Flutter](https://flutter.dev/) Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 - [Kraken](https://openkraken.com/) High-performance web rendering engine, built on Flutter by Alibaba.
 - [Wails](https://github.com/wailsapp/wails) Create desktop apps using Go and Web Technologies.
+- [Neutralinojs](https://github.com/neutralinojs/neutralinojs) Build lightweight cross-platform desktop apps with JavaScript, HTML, and CSS
 
 ## UI library
 
