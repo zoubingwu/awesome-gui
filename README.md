@@ -34,3 +34,4 @@ A curated list of awesome libraries for building cross platform apps.
 - [Fluent Design](https://github.com/microsoft/fluentui) Fluent Design System by Microsoft.
 - [Primer Design](https://primer.style/react/getting-started) GitHub’s design system.
 - [Geist UI](https://github.com/geist-org/geist-ui) Modern and minimalist React UI library, originating from Vercel's design.
+- [Semi Design](https://semi.design/en-US/) A modern, comprehensive, flexible design system by DouyinFE.
