@@ -28,7 +28,6 @@ A curated list of awesome libraries for building cross platform apps.
 - [Mantine](https://mantine.dev/) Mantine is a MIT licensed open source react components and hooks library with focus on usability, accessibility and developer experience.
 - [Wired Elements](https://wiredjs.com/) A set of common UI elements with a hand-drawn, sketchy look.
 - [Rough.js](https://github.com/rough-stuff/rough) Rough.js is a small (<9 kB) graphics library that lets you draw in a sketchy, hand-drawn-like, style.
-- [Geist UI](https://github.com/geist-org/react) Vercel like modern and minimalist React UI library.
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui) Simple, Modular & Accessible UI Components for your React Applications.
 - [Radix UI](https://github.com/radix-ui/primitives) Unstyled, accessible components for building high‑quality design systems and web apps in React.
 - [Fluent Design](https://github.com/microsoft/fluentui) Fluent Design System by Microsoft.
