@@ -10,7 +10,7 @@ A curated list of awesome libraries for building cross platform apps.
 - [graffiti](https://github.com/cztomsik/graffiti) Rapid GUI development using familiar technologies (javascript, flexbox, css)
 - [Muon](https://github.com/ImVexed/muon) Lightweight alternative to Electron written in Golang
 - [node-gui](https://github.com/nodegui/nodegui) A library for building cross-platform native desktop applications with JavaScript and CSS like styling 🚀
-- [vuido](https://github.com/mimecorg/vuido) Native desktop applications using Vue.js. vuido.mimec.org
+- ~~[vuido](https://github.com/mimecorg/vuido) Native desktop applications using Vue.js. vuido.mimec.org Unmaintained~~
 - [proton-native](https://github.com/kusti8/proton-native) A React environment for cross platform native desktop apps proton-native.js.org
 - [fyne](https://github.com/fyne-io/fyne) Cross platform GUI in Go based on Material Design
 - [react native for windows&mac](https://github.com/microsoft/react-native-windows) A framework bringing React Native to Windows & Mac devices.
