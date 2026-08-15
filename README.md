@@ -17,6 +17,7 @@ A curated list of awesome libraries for building cross platform apps.
 - [react native for windows&mac](https://github.com/microsoft/react-native-windows) A framework bringing React Native to Windows & Mac devices.
 - [tauri](https://github.com/tauri-apps/tauri) Tauri is a tool for building tiny, blazing fast binaries for all major desktop platforms.
 - [Compose for Desktop](https://www.jetbrains.com/lp/compose/) Fast reactive desktop UIs for Kotlin, based on Google's modern toolkit and brought to you by JetBrains.
+- [Codename One](https://github.com/codenameone/CodenameOne) Build mobile, desktop, web, and watch apps from one Java codebase.
 - [Flutter](https://flutter.dev/) Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 - ~~[Kraken](https://github.com/openkraken/kraken) High-performance web rendering engine, built on Flutter by Alibaba.~~ Unmaintained
 - [Wails](https://github.com/wailsapp/wails) Create desktop apps using Go and Web Technologies.
