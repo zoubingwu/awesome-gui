@@ -37,4 +37,4 @@ A curated list of awesome libraries for building cross platform apps.
 - [Geist UI](https://github.com/geist-org/geist-ui) Modern and minimalist React UI library, originating from Vercel's design.
 - [Semi Design](https://semi.design/en-US/) A modern, comprehensive, flexible design system by DouyinFE.
 - [shadcn/ui](https://github.com/shadcn-ui/ui) Beautifully designed components that you can copy and paste into your apps.
-
+- [Glint](https://superkraft.io) Glint is a lightweight, GPU-accelerated web renderer for C++ (Skia-based) that features direct DOM access.
