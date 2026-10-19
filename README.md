@@ -37,4 +37,4 @@ A curated list of awesome libraries for building cross platform apps.
 - [Geist UI](https://github.com/geist-org/geist-ui) Modern and minimalist React UI library, originating from Vercel's design.
 - [Semi Design](https://semi.design/en-US/) A modern, comprehensive, flexible design system by DouyinFE.
 - [shadcn/ui](https://github.com/shadcn-ui/ui) Beautifully designed components that you can copy and paste into your apps.
-
+- [GPUI Kit](https://github.com/longbridge/gpui-kit) Rust component library and umbrella crate for building desktop interfaces with GPUI; used by [Glim](https://github.com/NeoPanic/Glim), a macOS file viewer and basic text editor.
