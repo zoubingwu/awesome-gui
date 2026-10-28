@@ -8,6 +8,7 @@ A curated list of awesome libraries for building cross platform apps.
 - [Electrobun](https://github.com/blackboardsh/electrobun) Build ultra fast, tiny, and cross-platform desktop apps with TypeScript
 - ~~[revery](https://github.com/revery-ui/revery) ⚡️ Native, high-performance, cross-platform desktop apps - built with Reason!~~ Unmaintained
 - [Azul](https://github.com/maps4print/azul) Desktop GUI Framework in Rust
+- [Native Shell](https://github.com/longbridge/nsh) Native UI framework for iOS, Android, macOS, Windows, Linux, and the web, with Rust and TSX support
 - [graffiti](https://github.com/cztomsik/graffiti) Rapid GUI development using familiar technologies (javascript, flexbox, css)
 - [Muon](https://github.com/ImVexed/muon) Lightweight alternative to Electron written in Golang
 - [node-gui](https://github.com/nodegui/nodegui) A library for building cross-platform native desktop applications with JavaScript and CSS like styling 🚀
